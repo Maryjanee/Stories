@@ -1,4 +1,4 @@
-# Private Events
+# Stories
 
 > Stories is a web application built in Ruby on Rails that allows users to create stories, view stories written by other users. 
 
